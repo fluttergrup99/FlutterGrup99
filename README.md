@@ -176,7 +176,7 @@ formülün nasıl kullanılacağını ve gerekli parametreleri okur. Gerekli de�
 Daily Scrum toplantısında alınan kararlar pdf olarak Readme'de tarafımızdan paylaşılmaktadır.
 [![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1nmVvZI6suznRe3avqTg01zFmB8uLbj5a/view?usp=sharing)
 - **Sprint Board Update:** (Sprint Board Screenshotları)
-  [![sprint1](https://drive.google.com/file/d/1tOFNli7zoA3oNpDG5yQlighER6N8cE5d/view?usp=sharing)]
+  ![sprint1](https://github.com/fluttergrup99/FlutterGrup99/blob/main/Sprint%201%20Board.jpg)
   
 - **Proje Durumu:** İlk Sprint boyunca proje belirleme, proje planlaması ve görev dağılımı yapıldı. Tasarım aşamasına geçildi. Tasarım tamamlanmadığından ötürü screenshot eklenmemiştir.
 - **Sprint Review:**
