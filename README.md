@@ -5,12 +5,12 @@ Bootcamp 2024 Flutter Grup 99
 ## Takım Üyeleri ##
 |   | İsim Soyisim | Takım Rolü  | Bağlantılar |
 | --|:-------:| :-----:| :-----:|
-| 1 | Sude Sena Temir | Product Owner |  |
-| 2 | Furkan Canımoğlu | Scrum Master | [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/furkan180541081) |
-| 3 | Erva Nur Bostancı | Developer  |  |
-| 4 | Mohammad Brijawi | Developer |  |
-| 5 | Saliha Tatar | Pasif Üye |  |
-| 6 | Osman Kaan İlhan | Pasif Üye |  |
+| :woman_technologist: | Sude Sena Temir | Product Owner | [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/ssttemir) |
+| :man_technologist: | Furkan Canımoğlu | Scrum Master | [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/furkan180541081) |
+| :woman_technologist: | Erva Nur Bostancı | Developer  | [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/Ervanurb) |
+| :man_technologist: | Mohammad Brijawi | Developer | [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/MOHAMMADBRIJAWI) |
+| :woman: | Saliha Tatar | Pasif Üye | :x: |
+| :man: | Osman Kaan İlhan | Pasif Üye | :x: |
 
 # PROJE VE ÜRÜN İLE İLGİLİ BİLGİLER #
 ## Proje Adı ##
