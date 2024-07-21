@@ -167,6 +167,10 @@ Uygulamayı açar ve formüller kütüphanesinden ilgili formülü seçer. Form�
 formülün nasıl kullanılacağını ve gerekli parametreleri okur. Gerekli değerleri giriş alanlarına girer ve
 "Hesapla" butonuna tıklar. Sonuç hemen ekranda belirir ve Can, elektrikle ilgili yaşanan problemi daha kısa sürede çözmüş olur.
 
+
+
+<img src="https://github.com/fluttergrup99/FlutterGrup99/blob/sprint/Sprint%20Dosyalar%C4%B1/Ads%C4%B1z.png" width="100%">
+
 # SPRİNT 1 #
 - **Sprint İçinde Tamamlanması Tahmin Edilen Puan:** 100 Puan
 - **Sprint Sonu Tamamlanan Puan:** 100 Puan
@@ -197,6 +201,77 @@ Daily Scrum toplantısında alınan kararlar pdf olarak Readme'de tarafımızdan
 - **Sprint Retrospective:**
   - Zaman sıkıntısı ve zaman uyuşmazlığı nedeniyle planlama toplantısı Slack üzerinden gerçekleştirilmiştir.
   - Takım içindeki üyelerin aktifliği ve görev dağılımıyla ilgili çapraz fonksiyonlu düzenleme yapılması kararı alınmıştır.
+  - Takım üyelerinin gelecek sprintlerde aktif olması gerektiğine vurgu yapılmıştır.
+ 
+- **Product Backlog URL:** [Miro Sprint Backlog](https://miro.com/app/board/uXjVK0g9Id8=/?share_link_id=569740623739)
+
+
+
+
+# SPRİNT 2 #
+- **Sprint İçinde Tamamlanması Tahmin Edilen Puan:** 200 Puan
+- **Sprint Sonu Tamamlanan Puan:** 150 Puan (Toplam Puan: 250)
+- **Puan Tamamlama Mantığı:** Toplamda proje boyunca tamamlanması gereken 500 puanlık backlog bulunmaktadır.
+  3 Sprinte bölündüğünde İkinci Sprintin tasarım ve anasayfanın kodlanması açısından 200 puan olması gerektiğine karar verildi. Ancak müsaitlik durumu sıkıntısı ve tasarım kararsızlığından dolayı tasarım aşaması uzamıştır. Bu nedenle planlanan tasarımın yarısında olmamız ve basit hesap makinesi kodlamasını yetiştiremememiz nedeniyle 200 puanlık bu sprinte 150 puan verilmiştir.
+  
+- **Daily Scrum:** İletişim sıkıntısı nedeniyle ikinci hafta Daily Scrum toplantısı Whatsapp üzerinden sesli görüşme olarak yapılmıştır ve bundan sonraki toplantıların Whatsapp üzerinden yapılması kararlaştırılmıştır. Toplantı özeti şu şekildedir:
+  - Ekip olarak tasarıma başlanacak. Çeşitli tasarımlar oluşturup, ekip olarak en uygununa karar verilecek.
+  - Uygun tasarım belirlendikten sonra tasarım ekip olarak daha gelişmiş hale getirilecek ve tasarım sonlandırılacak.
+  - Tasarımın ardından AnaSayfa kodlanması özellikle frontend olduğundan ekip olarak tamamlanacaktır. 
+  - Sonraki sayfaların kodlanmasında Sude Sena Temir ve Erva Nur Bostancı frontend; Furkan Canımoğlu ve Mohammad Brijawi backend ile ilgilenecektir.
+  - Müsaitlik durumu veya zaman kısıtı gibi risklerin çözümü için müsait olan ekip üyeleri aynı görev üzerinde çalışacaktır.
+Toplantıda alınan kararlar tüm ekip üyeleri tarafından oluşturulup, onaylanmıştır.
+
+- **Sprint Notları:**
+  - Furkan Canımoğlu logo tasarımı oluşturmuştur ve ekibe sunmuştur. Ekip logo tasarımını düzenlemiştir.
+  - 2 ayrı Figma projesi şeklinde tasarımlar oluşturulup, fikirler 2 çeşit üzerinde denenmiştir.
+  - AnaSayfa ve Basit Hesap Makinesi tasarımları ekip olarak belirlenmiş ve düzenlenmiştir. 
+  - AnaSayfa kodlaması ekip olarak yapılmış ve tasarıma uygun şekilde geliştirilmiştir.
+  - Ekip üyelerinin müsait olduğu zamanlar kısıtlı olduğundan tasarım ve geliştirme aşaması gecikmeye uğramıştır.
+  - Son sprint dolayısıyla ekibin aktif olması gerektiği belirtilmiştir ve son sprint sonu projenin tamamlanacağı vurgulanmıştır.
+  - Ekibin diğer üyeleri Saliha Tatar ve Osman Kaan İlhan bu sprinte de dahil olmamışlardır.
+![logo](https://github.com/fluttergrup99/FlutterGrup99/blob/sprint/Sprint%20Dosyalar%C4%B1/logo.jpg)
+ 
+- **Sprint Board Update:** (Sprint Board Screenshotları)
+![sprint1](https://github.com/fluttergrup99/FlutterGrup99/blob/sprint/Sprint%20Dosyalar%C4%B1/Sprint%202%20Board.jpg)
+  
+- **Proje Durumu:** İkinci Sprint boyunca tasarım ve AnaSayfa kodlaması yapıldı. Tasarım aşamasında çeşitli fikirler edinildiğinden gecikme yaşandı. Eksik kalan tasarımın tamamlanması ve basit hesap makinesi kodlaması haricinde fonksiyonel hesap makinesi ve formüller sayfalarının kodlanması aşamasına geçildi. Yüzdelik olarak değerlendirmek gerekirse projenin %44'ü tamamlanmıştır.
+![tasarım1](https://github.com/fluttergrup99/FlutterGrup99/blob/sprint/Sprint%20Dosyalar%C4%B1/Prototip%20Tasar%C4%B1m%201.png)
+![tasarım2](https://github.com/fluttergrup99/FlutterGrup99/blob/sprint/Sprint%20Dosyalar%C4%B1/Prototip%20Tasar%C4%B1m%202.png)
+![tasarım3](https://github.com/fluttergrup99/FlutterGrup99/blob/sprint/Sprint%20Dosyalar%C4%B1/Prototip%20Tasar%C4%B1m%203.png)
+![anaSayfaGif](https://github.com/fluttergrup99/FlutterGrup99/blob/sprint/Sprint%20Dosyalar%C4%B1/QuickCalc%20Anaekran%20Gif.gif)
+
+- **Sprint Review:**
+  - **Bu Sprintte Yapılanlar:**
+    - Uygulama logosu tasarlandı.
+    - Uygulama için çeşitli tasarımlar üretildi.
+    - UI/UX Tasarımı yapıldı.
+    - AnaSayfa ve Basit Hesap Makinesi ekran prototipleri oluşturuldu.
+    - Tasarıma göre AnaSayfa ekranı geliştirildi.
+    - Ekranlar arası navigasyonlar geliştirildi.
+
+  - **Gelecek Sprintte Yapılması Planlananlar:**
+    - Fonksiyonel Hesap Makinesi ve Formüller ekran prototipleri oluşturulacak.
+    - Fonksiyonel Hesap Makinesi sayfası geliştirilecek.
+    - Formüller sayfası geliştirilecek.
+    - Formüller kütüphanesi oluşturulacak ve kategorize edilecek.
+    - Formül detay sayfası geliştirilecek.
+    - Kullanıcı testleri yapılacak ve geri bildirimler toplanacak.
+
+  - **Ekstra Olarak Yapılması Planlananlar:**
+    - Açık/Koyu Tema özelliği eklenecek.
+    - Görme engelliler için sesli hesaplama özelliği eklenecek.
+
+  - **Katılımcılar:**
+    - Furkan Canımoğlu - Scrum Master
+    - Sude Sena Temir - Product Owner
+    - Erva Nur Bostancı - Developer
+    - Mohammad Brijawi - Developer
+      
+- **Sprint Retrospective:**
+  - İletişim kopukluğu nedeniyle toplantılar Whatsapp üzerinden gerçekleştirilmiştir.
+  - Tasarım için çeşitli fikirler üretilmiş. Ekibin kullanım kolaylığı açısından daha basit tasarımlar üretmesi istenmiştir.
+  - Takım içindeki üyelerin aktifliği sorununun çözümü için görevlerin çapraz fonksiyonlu tamamlanması kararı alınmıştır.
   - Takım üyelerinin gelecek sprintlerde aktif olması gerektiğine vurgu yapılmıştır.
  
 - **Product Backlog URL:** [Miro Sprint Backlog](https://miro.com/app/board/uXjVK0g9Id8=/?share_link_id=569740623739)
