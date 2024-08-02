@@ -275,3 +275,71 @@ Toplantıda alınan kararlar tüm ekip üyeleri tarafından oluşturulup, onayla
   - Takım üyelerinin gelecek sprintlerde aktif olması gerektiğine vurgu yapılmıştır.
  
 - **Product Backlog URL:** [Miro Sprint Backlog](https://miro.com/app/board/uXjVK0g9Id8=/?share_link_id=569740623739)
+
+
+# SPRİNT 3 #
+- **Sprint İçinde Tamamlanması Tahmin Edilen Puan:** 200 Puan
+- **Sprint Sonu Tamamlanan Puan:** 200 Puan + 50 Puan Sprint 2 eksiği giderildi. (Toplam Puan: 500)
+- **Puan Tamamlama Mantığı:** Toplamda proje boyunca tamamlanması gereken 500 puanlık backlog bulunmaktadır.
+  3 Sprinte bölündüğünde 3. ve son sprintin uygulamanın tüm eksiğinin giderilmesi ve hazır hale getirilmesi açısından 200 puan olması gerektiğine karar verildi. Sprint 2'den kalan eksiğin bu sprintte giderilmesi açısından bu sprinte önceki sprintten eksik kalan 50 puan eklenmiştir. Böylelikle proje boyunca yapılan sprintlerin toplam puanı 500/500 olmuştur.
+  
+- **Daily Scrum:** İletişim sıkıntısı nedeniyle 3. Sprint boyunca da Daily Scrum toplantısı Whatsapp üzerinden sesli görüşme olarak yapılmıştır. Toplantı özeti şu şekildedir:
+  - Ekip olarak tasarım en kısa sürece tamamlanacak.
+  - Tasarımın ardından AnaSayfa kodlanması özellikle frontend olduğundan ekip olarak tamamlanacaktır. 
+  - Sonraki sayfaların kodlanmasında Sude Sena Temir ve Erva Nur Bostancı frontend; Furkan Canımoğlu ve Mohammad Brijawi backend ile ilgilenecektir.
+  - Müsaitlik durumu veya zaman kısıtı gibi risklerin çözümü için müsait olan ekip üyeleri aynı görev üzerinde çalışacaktır.
+Toplantıda alınan kararlar tüm ekip üyeleri tarafından oluşturulup, onaylanmıştır.
+
+- **Sprint Notları:**
+  - Furkan Canımoğlu logo tasarımı oluşturmuştur ve ekibe sunmuştur. Ekip logo tasarımını düzenlemiştir.
+  - 2 ayrı Figma projesi şeklinde tasarımlar oluşturulup, fikirler 2 çeşit üzerinde denenmiştir.
+  - AnaSayfa ve Basit Hesap Makinesi tasarımları ekip olarak belirlenmiş ve düzenlenmiştir. 
+  - AnaSayfa kodlaması ekip olarak yapılmış ve tasarıma uygun şekilde geliştirilmiştir.
+  - Ekip üyelerinin müsait olduğu zamanlar kısıtlı olduğundan tasarım ve geliştirme aşaması gecikmeye uğramıştır.
+  - Son sprint dolayısıyla ekibin aktif olması gerektiği belirtilmiştir ve son sprint sonu projenin tamamlanacağı vurgulanmıştır.
+  - Ekibin diğer üyeleri Saliha Tatar ve Osman Kaan İlhan bu sprinte de dahil olmamışlardır.
+![logo](https://github.com/fluttergrup99/FlutterGrup99/blob/sprint/Sprint%20Dosyalar%C4%B1/logo.jpg)
+ 
+- **Sprint Board Update:** (Sprint Board Screenshotları)
+![sprint1](https://github.com/fluttergrup99/FlutterGrup99/blob/sprint/Sprint%20Dosyalar%C4%B1/Sprint%202%20Board.jpg)
+  
+- **Proje Durumu:** İkinci Sprint boyunca tasarım ve AnaSayfa kodlaması yapıldı. Tasarım aşamasında çeşitli fikirler edinildiğinden gecikme yaşandı. Eksik kalan tasarımın tamamlanması ve basit hesap makinesi kodlaması haricinde fonksiyonel hesap makinesi ve formüller sayfalarının kodlanması aşamasına geçildi. Yüzdelik olarak değerlendirmek gerekirse projenin %44'ü tamamlanmıştır.
+![tasarım1](https://github.com/fluttergrup99/FlutterGrup99/blob/sprint/Sprint%20Dosyalar%C4%B1/Prototip%20Tasar%C4%B1m%201.png)
+![tasarım2](https://github.com/fluttergrup99/FlutterGrup99/blob/sprint/Sprint%20Dosyalar%C4%B1/Prototip%20Tasar%C4%B1m%202.png)
+![tasarım3](https://github.com/fluttergrup99/FlutterGrup99/blob/sprint/Sprint%20Dosyalar%C4%B1/Prototip%20Tasar%C4%B1m%203.png)
+![anaSayfaGif](https://github.com/fluttergrup99/FlutterGrup99/blob/sprint/Sprint%20Dosyalar%C4%B1/QuickCalc%20Anaekran%20Gif.gif)
+
+- **Sprint Review:**
+  - **Bu Sprintte Yapılanlar:**
+    - Uygulama logosu tasarlandı.
+    - Uygulama için çeşitli tasarımlar üretildi.
+    - UI/UX Tasarımı yapıldı.
+    - AnaSayfa ve Basit Hesap Makinesi ekran prototipleri oluşturuldu.
+    - Tasarıma göre AnaSayfa ekranı geliştirildi.
+    - Ekranlar arası navigasyonlar geliştirildi.
+
+  - **Gelecek Sprintte Yapılması Planlananlar:**
+    - Fonksiyonel Hesap Makinesi ve Formüller ekran prototipleri oluşturulacak.
+    - Fonksiyonel Hesap Makinesi sayfası geliştirilecek.
+    - Formüller sayfası geliştirilecek.
+    - Formüller kütüphanesi oluşturulacak ve kategorize edilecek.
+    - Formül detay sayfası geliştirilecek.
+    - Kullanıcı testleri yapılacak ve geri bildirimler toplanacak.
+
+  - **Ekstra Olarak Yapılması Planlananlar:**
+    - Açık/Koyu Tema özelliği eklenecek.
+    - Görme engelliler için sesli hesaplama özelliği eklenecek.
+
+  - **Katılımcılar:**
+    - Furkan Canımoğlu - Scrum Master
+    - Sude Sena Temir - Product Owner
+    - Erva Nur Bostancı - Developer
+    - Mohammad Brijawi - Developer
+      
+- **Sprint Retrospective:**
+  - İletişim kopukluğu nedeniyle toplantılar Whatsapp üzerinden gerçekleştirilmiştir.
+  - Tasarım için çeşitli fikirler üretilmiş. Ekibin kısa sürede tasarımı tamamlaması açısından hızlı ve ortak bir karar verilmesi istenmiştir.
+  - Takım içindeki üyelerin aktifliği sorununun çözümü için görevlerin çapraz fonksiyonlu tamamlanması kararı alınmıştır.
+  - Takım üyelerinin son sprint boyunca aktif olması gerektiğine vurgu yapılmıştır.
+ 
+- **Product Backlog URL:** [Miro Sprint Backlog](https://miro.com/app/board/uXjVK0g9Id8=/?share_link_id=569740623739)
