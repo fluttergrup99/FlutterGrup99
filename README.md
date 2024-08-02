@@ -307,6 +307,8 @@ Toplantıda alınan kararlar tüm ekip üyeleri tarafından oluşturulup, onayla
 ![sprint3](https://github.com/fluttergrup99/FlutterGrup99/blob/main/Sprint%203%20Board.jpg)
   
 - **Proje Durumu:** Üçüncü ve son Sprint boyunca uygulamanın kalan eksiklikleri giderildi. Sayfaları kodlanıp, hazır hale getirildi. Ekip üyelerinin yoğunluk durumları fazla olmasına rağmen kalan kısa süre içerisinde tüm görevler çapraz fonksiyonlu olarak başarıyla tamamlandı. Yüzdelik olarak planlanan projenin %100'ü tamamlanmıştır.
+
+  
 ![Basit Hesap Makinesi](https://github.com/fluttergrup99/FlutterGrup99/blob/main/basit_hesap_makinesi.png)
 ![Fonksiyonel Hesap Makinesi](https://github.com/fluttergrup99/FlutterGrup99/blob/main/fonksiyonel_hesap_makinesi.png)
 ![Formüller Menü](https://github.com/fluttergrup99/FlutterGrup99/blob/main/formuller_menu.png)
@@ -315,23 +317,18 @@ Toplantıda alınan kararlar tüm ekip üyeleri tarafından oluşturulup, onayla
 
 - **Sprint Review:**
   - **Bu Sprintte Yapılanlar:**
-    - Uygulama logosu tasarlandı.
-    - Uygulama için çeşitli tasarımlar üretildi.
-    - UI/UX Tasarımı yapıldı.
-    - AnaSayfa ve Basit Hesap Makinesi ekran prototipleri oluşturuldu.
-    - Tasarıma göre AnaSayfa ekranı geliştirildi.
-    - Ekranlar arası navigasyonlar geliştirildi.
+    - Basit Hesap Makinesi arayüzü ve fonksiyonları kodlandı.
+    - Fonksiyonel Hesap Makinesi arayüzü ve fonksiyonları kodlandı.
+    - Formüller Sayfası arayüzü kodlandı.
+    - Formüller kütüphanesi oluşturulup, kodlaması yapıldı.
+    - Sayfalar arası geçiş (Navigasyon) kodlandı.
+    - Açık-Koyu tema özelliği eklendi.
+    - Gerekli test ve bakım işlemleri yapıldı.
+    - Beklenmedik girişler ve durumlara karşı uygulama geliştirildi.
+    - Hatalar giderildi ve uygulama hazır hale getirildi.
+    - Uygulamanın build işlemi yapıldı.
 
-  - **Gelecek Sprintte Yapılması Planlananlar:**
-    - Fonksiyonel Hesap Makinesi ve Formüller ekran prototipleri oluşturulacak.
-    - Fonksiyonel Hesap Makinesi sayfası geliştirilecek.
-    - Formüller sayfası geliştirilecek.
-    - Formüller kütüphanesi oluşturulacak ve kategorize edilecek.
-    - Formül detay sayfası geliştirilecek.
-    - Kullanıcı testleri yapılacak ve geri bildirimler toplanacak.
-
-  - **Ekstra Olarak Yapılması Planlananlar:**
-    - Açık/Koyu Tema özelliği eklenecek.
+  - **Ekstra Olarak Yapılması Planlanan, Zaman Kısıtı Nedeniyle İptal Edilen Özellikler:**
     - Görme engelliler için sesli hesaplama özelliği eklenecek.
 
   - **Katılımcılar:**
@@ -346,9 +343,9 @@ Toplantıda alınan kararlar tüm ekip üyeleri tarafından oluşturulup, onayla
   - Takım içindeki üyelerin aktifliği sorununun çözümü için görevlerin çapraz fonksiyonlu tamamlanması kararı alınmıştır.
   - Takım üyelerinin son sprint boyunca aktif olması gerektiğine vurgu yapılmıştır.
   - Sude Sena Temir fizik tedavi görmesine rağmen görevlere aktif katılım sağlamıştır.
-  - Erva Nur Bostancı işte çalışmasına rağmen aktif katılım sağlamıştır.
+  - Erva Nur Bostancı her gün işte çalışmasına rağmen aktif katılım sağlamıştır.
   - Mohammad Brijawi 07.00-19.00 arası her gün çalışmasına rağmen aktif katılım sağlamıştır.
-  - Furkan Canımoğlu yerleşkede görevli olmasına rağmen aktif katılım sağlamıştır.
+  - Furkan Canımoğlu yerleşkede görevli ve yoğunluk olmasına rağmen aktif katılım sağlamıştır.
  
 - **Product Backlog URL:** [Miro Sprint Backlog](https://miro.com/app/board/uXjVK0g9Id8=/?share_link_id=569740623739)
 
