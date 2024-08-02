@@ -343,9 +343,9 @@ Toplantıda alınan kararlar tüm ekip üyeleri tarafından oluşturulup, onayla
   - Takım içindeki üyelerin aktifliği sorununun çözümü için görevlerin çapraz fonksiyonlu tamamlanması kararı alınmıştır.
   - Takım üyelerinin son sprint boyunca aktif olması gerektiğine vurgu yapılmıştır.
   - Sude Sena Temir fizik tedavi görmesine rağmen görevlere aktif katılım sağlamıştır.
-  - Erva Nur Bostancı her gün işte çalışmasına rağmen aktif katılım sağlamıştır.
-  - Mohammad Brijawi 07.00-19.00 arası her gün çalışmasına rağmen aktif katılım sağlamıştır.
-  - Furkan Canımoğlu yerleşkede görevli ve yoğunluk olmasına rağmen aktif katılım sağlamıştır.
+  - Erva Nur Bostancı her gün işte çalışmasına rağmen görevlere aktif katılım sağlamıştır.
+  - Mohammad Brijawi 07.00-19.00 arası her gün çalışmasına rağmen görevlere aktif katılım sağlamıştır.
+  - Furkan Canımoğlu yerleşkede görevli ve yoğunluk olmasına rağmen görevlere aktif katılım sağlamıştır.
  
 - **Product Backlog URL:** [Miro Sprint Backlog](https://miro.com/app/board/uXjVK0g9Id8=/?share_link_id=569740623739)
 
