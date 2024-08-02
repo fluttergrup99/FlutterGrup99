@@ -233,7 +233,7 @@ Toplantıda alınan kararlar tüm ekip üyeleri tarafından oluşturulup, onayla
 ![logo](https://github.com/fluttergrup99/FlutterGrup99/blob/sprint/Sprint%20Dosyalar%C4%B1/logo.jpg)
  
 - **Sprint Board Update:** (Sprint Board Screenshotları)
-![sprint1](https://github.com/fluttergrup99/FlutterGrup99/blob/sprint/Sprint%20Dosyalar%C4%B1/Sprint%202%20Board.jpg)
+![sprint2](https://github.com/fluttergrup99/FlutterGrup99/blob/sprint/Sprint%20Dosyalar%C4%B1/Sprint%202%20Board.jpg)
   
 - **Proje Durumu:** İkinci Sprint boyunca tasarım ve AnaSayfa kodlaması yapıldı. Tasarım aşamasında çeşitli fikirler edinildiğinden gecikme yaşandı. Eksik kalan tasarımın tamamlanması ve basit hesap makinesi kodlaması haricinde fonksiyonel hesap makinesi ve formüller sayfalarının kodlanması aşamasına geçildi. Yüzdelik olarak değerlendirmek gerekirse projenin %44'ü tamamlanmıştır.
 ![tasarım1](https://github.com/fluttergrup99/FlutterGrup99/blob/sprint/Sprint%20Dosyalar%C4%B1/Prototip%20Tasar%C4%B1m%201.png)
@@ -284,30 +284,34 @@ Toplantıda alınan kararlar tüm ekip üyeleri tarafından oluşturulup, onayla
   3 Sprinte bölündüğünde 3. ve son sprintin uygulamanın tüm eksiğinin giderilmesi ve hazır hale getirilmesi açısından 200 puan olması gerektiğine karar verildi. Sprint 2'den kalan eksiğin bu sprintte giderilmesi açısından bu sprinte önceki sprintten eksik kalan 50 puan eklenmiştir. Böylelikle proje boyunca yapılan sprintlerin toplam puanı 500/500 olmuştur.
   
 - **Daily Scrum:** İletişim sıkıntısı nedeniyle 3. Sprint boyunca da Daily Scrum toplantısı Whatsapp üzerinden sesli görüşme olarak yapılmıştır. Toplantı özeti şu şekildedir:
-  - Ekip olarak tasarım en kısa sürece tamamlanacak.
-  - Tasarımın ardından AnaSayfa kodlanması özellikle frontend olduğundan ekip olarak tamamlanacaktır. 
-  - Sonraki sayfaların kodlanmasında Sude Sena Temir ve Erva Nur Bostancı frontend; Furkan Canımoğlu ve Mohammad Brijawi backend ile ilgilenecektir.
-  - Müsaitlik durumu veya zaman kısıtı gibi risklerin çözümü için müsait olan ekip üyeleri aynı görev üzerinde çalışacaktır.
+  - Ekip olarak tasarım en kısa sürede tamamlanacak.
+  - Tasarımın ardından eksik olan Basit Hesap Makinesi sayfası Furkan Canımoğlu tarafından geliştirilecek. 
+  - Fonksiyonel Hesap Makinesi sayfası Mohammad Brijawi tarafından geliştirilecek.
+  - Formüller kütüphanesinin oluşturulması ve formüller sayfası Erva Nur Bostancı ile Sude Sena Temir tarafından geliştirilecek.
+  - Sayfalar arası geçiş ve açık-koyu tema özelliği eklenecek.
+  - Gerekli test ve bakım işlemleri ekip olarak tamamlanacak ve eksikler ile hatalar ekip olarak giderilecek.
+  - Proje build edilip hazır hale getirilecektir.
 Toplantıda alınan kararlar tüm ekip üyeleri tarafından oluşturulup, onaylanmıştır.
 
 - **Sprint Notları:**
-  - Furkan Canımoğlu logo tasarımı oluşturmuştur ve ekibe sunmuştur. Ekip logo tasarımını düzenlemiştir.
-  - 2 ayrı Figma projesi şeklinde tasarımlar oluşturulup, fikirler 2 çeşit üzerinde denenmiştir.
-  - AnaSayfa ve Basit Hesap Makinesi tasarımları ekip olarak belirlenmiş ve düzenlenmiştir. 
-  - AnaSayfa kodlaması ekip olarak yapılmış ve tasarıma uygun şekilde geliştirilmiştir.
-  - Ekip üyelerinin müsait olduğu zamanlar kısıtlı olduğundan tasarım ve geliştirme aşaması gecikmeye uğramıştır.
-  - Son sprint dolayısıyla ekibin aktif olması gerektiği belirtilmiştir ve son sprint sonu projenin tamamlanacağı vurgulanmıştır.
-  - Ekibin diğer üyeleri Saliha Tatar ve Osman Kaan İlhan bu sprinte de dahil olmamışlardır.
-![logo](https://github.com/fluttergrup99/FlutterGrup99/blob/sprint/Sprint%20Dosyalar%C4%B1/logo.jpg)
+  - Figma üzerinden oluşturulan tasarımlar üzerinde ortak bir karara varılıp, tasarım aşaması tamamlanmıştır.
+  - Önceki sprintten kalan Basit Hesap Makinesinin Geliştirilmesi görevi Furkan Canımoğlu tarafından tamamlanmıştır.
+  - Fonksiyonel Hesap Makinesinin tasarımı ve frontend kodlaması Mohammad Brijawi tarafından yapılmış olup, Backend kodlaması Furkan Canımoğlu tarafından yapılmıştır.
+  - Formüller sayfasının menü tasarımı ve kodlaması Erva Nur Bostancı tarafından, formüller kütüphanesinin tasarımı ise Sude Sena Bostancı tarafından Frontend ve Backend kodlama olarak yapılmıştır.
+  - Açık-Koyu tema özelliği Mohammad Brijawi tarafından yapılmıştır.
+  - Sayfalar arası geçiş ve uygulamanın build edilme işlemleri Furkan Canımoğlu tarafından yapılmıştır.
+  - Müsaitlik durumundan kaynaklanan risk durumlarında ekipten müsait olanların müdahalesi ile çalışmalar hızlandırılmıştır.
+  - Uygulama videosu ekip olarak çekilmiş olunup, gerekli test ve bakım işlemleri yapıldıktan sonra proje ekip olarak başarıyla tamamlanmıştır.
  
 - **Sprint Board Update:** (Sprint Board Screenshotları)
-![sprint1](https://github.com/fluttergrup99/FlutterGrup99/blob/sprint/Sprint%20Dosyalar%C4%B1/Sprint%202%20Board.jpg)
+![sprint3](https://github.com/fluttergrup99/FlutterGrup99/blob/main/Sprint%203%20Board.jpg)
   
-- **Proje Durumu:** İkinci Sprint boyunca tasarım ve AnaSayfa kodlaması yapıldı. Tasarım aşamasında çeşitli fikirler edinildiğinden gecikme yaşandı. Eksik kalan tasarımın tamamlanması ve basit hesap makinesi kodlaması haricinde fonksiyonel hesap makinesi ve formüller sayfalarının kodlanması aşamasına geçildi. Yüzdelik olarak değerlendirmek gerekirse projenin %44'ü tamamlanmıştır.
-![tasarım1](https://github.com/fluttergrup99/FlutterGrup99/blob/sprint/Sprint%20Dosyalar%C4%B1/Prototip%20Tasar%C4%B1m%201.png)
-![tasarım2](https://github.com/fluttergrup99/FlutterGrup99/blob/sprint/Sprint%20Dosyalar%C4%B1/Prototip%20Tasar%C4%B1m%202.png)
-![tasarım3](https://github.com/fluttergrup99/FlutterGrup99/blob/sprint/Sprint%20Dosyalar%C4%B1/Prototip%20Tasar%C4%B1m%203.png)
-![anaSayfaGif](https://github.com/fluttergrup99/FlutterGrup99/blob/sprint/Sprint%20Dosyalar%C4%B1/QuickCalc%20Anaekran%20Gif.gif)
+- **Proje Durumu:** Üçüncü ve son Sprint boyunca uygulamanın kalan eksiklikleri giderildi. Sayfaları kodlanıp, hazır hale getirildi. Ekip üyelerinin yoğunluk durumları fazla olmasına rağmen kalan kısa süre içerisinde tüm görevler çapraz fonksiyonlu olarak başarıyla tamamlandı. Yüzdelik olarak planlanan projenin %100'ü tamamlanmıştır.
+![Basit Hesap Makinesi](https://github.com/fluttergrup99/FlutterGrup99/blob/main/basit_hesap_makinesi.png)
+![Fonksiyonel Hesap Makinesi](https://github.com/fluttergrup99/FlutterGrup99/blob/main/fonksiyonel_hesap_makinesi.png)
+![Formüller Menü](https://github.com/fluttergrup99/FlutterGrup99/blob/main/formuller_menu.png)
+![Formüller Sayfa](https://github.com/fluttergrup99/FlutterGrup99/blob/main/formuller.png)
+![Aydınlık Tema](https://github.com/fluttergrup99/FlutterGrup99/blob/main/acik_tema.png)
 
 - **Sprint Review:**
   - **Bu Sprintte Yapılanlar:**
@@ -341,5 +345,19 @@ Toplantıda alınan kararlar tüm ekip üyeleri tarafından oluşturulup, onayla
   - Tasarım için çeşitli fikirler üretilmiş. Ekibin kısa sürede tasarımı tamamlaması açısından hızlı ve ortak bir karar verilmesi istenmiştir.
   - Takım içindeki üyelerin aktifliği sorununun çözümü için görevlerin çapraz fonksiyonlu tamamlanması kararı alınmıştır.
   - Takım üyelerinin son sprint boyunca aktif olması gerektiğine vurgu yapılmıştır.
+  - Sude Sena Temir fizik tedavi görmesine rağmen görevlere aktif katılım sağlamıştır.
+  - Erva Nur Bostancı işte çalışmasına rağmen aktif katılım sağlamıştır.
+  - Mohammad Brijawi 07.00-19.00 arası her gün çalışmasına rağmen aktif katılım sağlamıştır.
+  - Furkan Canımoğlu yerleşkede görevli olmasına rağmen aktif katılım sağlamıştır.
  
 - **Product Backlog URL:** [Miro Sprint Backlog](https://miro.com/app/board/uXjVK0g9Id8=/?share_link_id=569740623739)
+
+
+
+# BOOTCAMP SONU #
+**QuickCalc Uygulama Tanıtım Videosu**
+[![QuickCalc](https://img.youtube.com/vi/12S4HnVZtvc/3.jpg)](https://www.youtube.com/watch?v=12S4HnVZtvc "QuickCalc ile Mühendislik Çalışmaları Daha Kolay!")
+
+
+**QuickCalc Uygulama APK Dosyası:** 
+[QuickCalc APK Release](https://drive.google.com/file/d/1DmB6hoMfgJDRX1DjnRtQMuDbIhJFbWrU/view?usp=sharing)
